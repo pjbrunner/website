@@ -1,0 +1,22 @@
+#Peter{
+  border-radius: 50%;
+}
+
+#skills{
+  background-color: hsl(171, 100%, 41%);
+}
+
+#name{
+  font-size: 8.5em;
+}
+
+.social{
+  color: hsl(171, 100%, 41%);
+  font-size: 3em;
+  margin: 0em 0.25em 0em 0.25em;
+  transition: all 0.2s ease-out;
+}
+
+#copyright{
+  font-size: 1.25em;
+}
